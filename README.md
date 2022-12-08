@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juliannParra99
-- 👀 I’m interested in JavaScript, Node js, React.
-- 🌱 I’m currently learning JavaScript and Git
+- 👀 I’m FullStack software developer C#,.NET,Rust JavaScript, Node js, React.
+- 🌱 I'm a backend oriented developer.
 - 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me: Julianfranco.parra@gmail.com
 -  :chart:Linkedin: [Julián Parra: ](https://www.linkedin.com/in/juli%C3%A1n-parra-a7186318a/) 
