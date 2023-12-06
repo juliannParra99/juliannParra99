@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @juliannParra99
-- 👀 I’m FullStack software developer C#,.NET,Rust JavaScript, Node js, React.
 - 🌱 I'm a backend oriented developer.
 - 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me: Julianfranco.parra@gmail.com
--  :chart:Linkedin: [Julián Parra: ](https://www.linkedin.com/in/juli%C3%A1n-parra-a7186318a/) 
+- Linkedin: [Julián Parra: ](https://www.linkedin.com/in/juli%C3%A1n-parra-a7186318a/) 
 
 <h2 align="left">Languages and Tools:</h2>
 <div align="center" style="display: inline_block">
@@ -16,11 +14,14 @@
   <img align="center" alt="Ally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="node.js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
   
+---
   
 </div>
-<br>
+<br/>
+<br/>
+<img align="center" alt="drive"  src="https://media.giphy.com/media/PXj1J0eMONGOA/giphy.gif" />
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 
 <!---
 juliannParra99/juliannParra99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
